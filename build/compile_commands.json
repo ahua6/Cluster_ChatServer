@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/lihuimin/Project/chat/Clustered-ChatServer/build/src/server",
+  "command": "/usr/bin/g++   -I/home/lihuimin/Project/chat/Clustered-ChatServer/include -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server/db -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server/model -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server/redis -I/home/lihuimin/Project/chat/Clustered-ChatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /home/lihuimin/Project/chat/Clustered-ChatServer/src/server/chatserver.cpp",
+  "file": "/home/lihuimin/Project/chat/Clustered-ChatServer/src/server/chatserver.cpp"
+},
+{
+  "directory": "/home/lihuimin/Project/chat/Clustered-ChatServer/build/src/server",
+  "command": "/usr/bin/g++   -I/home/lihuimin/Project/chat/Clustered-ChatServer/include -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server/db -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server/model -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server/redis -I/home/lihuimin/Project/chat/Clustered-ChatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /home/lihuimin/Project/chat/Clustered-ChatServer/src/server/chatservice.cpp",
+  "file": "/home/lihuimin/Project/chat/Clustered-ChatServer/src/server/chatservice.cpp"
+},
+{
+  "directory": "/home/lihuimin/Project/chat/Clustered-ChatServer/build/src/server",
+  "command": "/usr/bin/g++   -I/home/lihuimin/Project/chat/Clustered-ChatServer/include -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server/db -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server/model -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server/redis -I/home/lihuimin/Project/chat/Clustered-ChatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/main.cpp.o -c /home/lihuimin/Project/chat/Clustered-ChatServer/src/server/main.cpp",
+  "file": "/home/lihuimin/Project/chat/Clustered-ChatServer/src/server/main.cpp"
+},
+{
+  "directory": "/home/lihuimin/Project/chat/Clustered-ChatServer/build/src/server",
+  "command": "/usr/bin/g++   -I/home/lihuimin/Project/chat/Clustered-ChatServer/include -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server/db -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server/model -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server/redis -I/home/lihuimin/Project/chat/Clustered-ChatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/db/db.cpp.o -c /home/lihuimin/Project/chat/Clustered-ChatServer/src/server/db/db.cpp",
+  "file": "/home/lihuimin/Project/chat/Clustered-ChatServer/src/server/db/db.cpp"
+},
+{
+  "directory": "/home/lihuimin/Project/chat/Clustered-ChatServer/build/src/server",
+  "command": "/usr/bin/g++   -I/home/lihuimin/Project/chat/Clustered-ChatServer/include -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server/db -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server/model -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server/redis -I/home/lihuimin/Project/chat/Clustered-ChatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o -c /home/lihuimin/Project/chat/Clustered-ChatServer/src/server/model/friendmodel.cpp",
+  "file": "/home/lihuimin/Project/chat/Clustered-ChatServer/src/server/model/friendmodel.cpp"
+},
+{
+  "directory": "/home/lihuimin/Project/chat/Clustered-ChatServer/build/src/server",
+  "command": "/usr/bin/g++   -I/home/lihuimin/Project/chat/Clustered-ChatServer/include -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server/db -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server/model -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server/redis -I/home/lihuimin/Project/chat/Clustered-ChatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o -c /home/lihuimin/Project/chat/Clustered-ChatServer/src/server/model/groupmodel.cpp",
+  "file": "/home/lihuimin/Project/chat/Clustered-ChatServer/src/server/model/groupmodel.cpp"
+},
+{
+  "directory": "/home/lihuimin/Project/chat/Clustered-ChatServer/build/src/server",
+  "command": "/usr/bin/g++   -I/home/lihuimin/Project/chat/Clustered-ChatServer/include -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server/db -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server/model -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server/redis -I/home/lihuimin/Project/chat/Clustered-ChatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o -c /home/lihuimin/Project/chat/Clustered-ChatServer/src/server/model/offlinemessagemodel.cpp",
+  "file": "/home/lihuimin/Project/chat/Clustered-ChatServer/src/server/model/offlinemessagemodel.cpp"
+},
+{
+  "directory": "/home/lihuimin/Project/chat/Clustered-ChatServer/build/src/server",
+  "command": "/usr/bin/g++   -I/home/lihuimin/Project/chat/Clustered-ChatServer/include -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server/db -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server/model -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server/redis -I/home/lihuimin/Project/chat/Clustered-ChatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /home/lihuimin/Project/chat/Clustered-ChatServer/src/server/model/usermodel.cpp",
+  "file": "/home/lihuimin/Project/chat/Clustered-ChatServer/src/server/model/usermodel.cpp"
+},
+{
+  "directory": "/home/lihuimin/Project/chat/Clustered-ChatServer/build/src/server",
+  "command": "/usr/bin/g++   -I/home/lihuimin/Project/chat/Clustered-ChatServer/include -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server/db -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server/model -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server/redis -I/home/lihuimin/Project/chat/Clustered-ChatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /home/lihuimin/Project/chat/Clustered-ChatServer/src/server/redis/redis.cpp",
+  "file": "/home/lihuimin/Project/chat/Clustered-ChatServer/src/server/redis/redis.cpp"
+},
+{
+  "directory": "/home/lihuimin/Project/chat/Clustered-ChatServer/build/src/client",
+  "command": "/usr/bin/g++   -I/home/lihuimin/Project/chat/Clustered-ChatServer/include -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server/db -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server/model -I/home/lihuimin/Project/chat/Clustered-ChatServer/include/server/redis -I/home/lihuimin/Project/chat/Clustered-ChatServer/thirdparty  -g -g   -o CMakeFiles/ChatClient.dir/main.cpp.o -c /home/lihuimin/Project/chat/Clustered-ChatServer/src/client/main.cpp",
+  "file": "/home/lihuimin/Project/chat/Clustered-ChatServer/src/client/main.cpp"
+}
+]
